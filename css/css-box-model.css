@@ -1,0 +1,12 @@
+.standard{
+    border: 5px solid teal;
+    background-color: #A5CFE3;
+    padding: 40px;
+    margin: 40px;
+    width: 350px;
+    height: 150px;
+}
+/*Adding a value to the box-sizing "inherit" will give the same size to he parent*/
+.alternate{
+    box-sizing: inherit;
+}
